@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRA_02T01_13KeyEvent</string>
+    <string name="smaller"><![CDATA[<]]></string>
+    <string name="bigger"><![CDATA[>]]></string>
+</resources>
